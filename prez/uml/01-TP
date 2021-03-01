@@ -1,0 +1,1 @@
+[Stack|push(item): void;pop(): item] - [note: FIFO{bg:wheat}] 
