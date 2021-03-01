@@ -4,6 +4,7 @@
   "description": "Personal training about testing et code quality",
   "type": "module",
   "scripts": {
+    "lint": "eslint . --fix",
     "start": "http-server -o /prez",
     "test": "node --experimental-vm-modules node_modules/.bin/jest"
   },
@@ -21,6 +22,10 @@
     "reveal.js": "^4.1.0"
   },
   "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.5",
     "http-server": "^0.12.3",
     "jest": "^26.6.3"
   },
