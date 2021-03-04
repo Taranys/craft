@@ -30,7 +30,8 @@ Unit testing
 
 ---
 ## Goal (the last one !)
-![](https://lh3.googleusercontent.com/proxy/W0n0L16CfhnDa4FrJHaO_FWTzbmFoVrrlW_l6ruxw7uZ8Ckqe-UlKogXKTfVU8dJiUSsQBHT3wPgaFdBoKPXrEaTE6TqOoBV67G3ZsSS-TG_EQUomYqEsPPiM6VoU7HXURcKMNbrryc2YkxzYRV1gFUXIaPWyfctWGg)
+
+![](images/01-confidence.jpg)
 
 ---
 ## Main principle
@@ -43,3 +44,5 @@ Unit testing
 ### TP
 
 ![](./images/01-TP.png)
+
+https://github.com/Taranys/craft

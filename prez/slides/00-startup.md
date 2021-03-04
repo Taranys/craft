@@ -1,4 +1,4 @@
-## Software craftsmansip
+## Software crafts(wo)manship
 
 ---
 ## Plan
@@ -8,3 +8,6 @@
  - How refacto without breaking things
  - Discover code smell from tests
  - *To be defined...*
+
+---
+## Open minded
